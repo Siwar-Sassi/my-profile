@@ -6,7 +6,7 @@
 
 body  {	
 	background-color:#4d4d4d;
-	background-image:url(images/fond-site.gif);
+	background-image:url(my-profile/images/profile-picture);
 	background-repeat:repeat-x;
 }
 img{
@@ -35,9 +35,9 @@ p{
 	text-align:justify;
 }
 #global { 
-    margin-left: auto; /* Permet de centrer le site */
-    margin-right: auto; /* Permet de centrer le site */
-    width: 800px;
+    margin-left: auto; 
+    margin-right: auto; 
+        width: 800px;
 	background-color:#dfdfdf;
     border: 1px solid #000000;
 	text-align:left;
